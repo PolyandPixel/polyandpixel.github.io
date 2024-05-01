@@ -1,0 +1,7 @@
+import Swup from 'https://uploads-ssl.webflow.com/64a551362aee09a10fd8fad8/661e2dea71b53c20a3f0dca8_index.module.txt';
+import SwupParallelPlugin from 'https://uploads-ssl.webflow.com/64a551362aee09a10fd8fad8/661e2dea805378e00dc6d96a_Swup.module.txt';
+
+const swup = new Swup({
+  containers: ["#swup"],
+  plugins: [new SwupParallelPlugin()]
+});
