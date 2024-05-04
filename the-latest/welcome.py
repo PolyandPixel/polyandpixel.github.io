@@ -1,7 +1,6 @@
 line01 = '*******************'
 line02 = '*                 *'
 line03 = '*     WELCOME!    *'
-line04 - ('fdfdf')
 
 print('')
 print(line01)

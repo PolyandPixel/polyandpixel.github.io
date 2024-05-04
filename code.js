@@ -1,9 +1,9 @@
-<script src="https://unpkg.com/swup@4"></script>
-<script src="https://unpkg.com/@swup/preload-plugin@3"></script>
-<script src="https://unpkg.com/@swup/scroll-plugin@3"></script>
+<script src="https://unpkg.com/swup@4"></script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
+<script src="https://unpkg.com/@swup/preload-plugin@3"></script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
+<script src="https://unpkg.com/@swup/scroll-plugin@3"></script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 <!-- SwiperJS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d057925e1a8682f6ba01f61" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d057925e1a8682f6ba01f61" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 <style>
 .transition-fade {
@@ -81,7 +81,7 @@ function pagereload() {
 
 document.addEventListener('swup:pageView', pagereload);
 
-    </script>
+    </script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
   <script>
     //To reload the webflow animations
@@ -95,7 +95,7 @@ document.addEventListener('swup:pageView', pagereload);
   	document.addEventListener('swup:pageView', wfscriptreload);
     document.addEventListener("DOMContentLoaded", wfscriptreload);
   
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 <script>
   document.addEventListener("DOMContentLoaded", (event) => {
@@ -109,7 +109,7 @@ document.addEventListener('swup:pageView', pagereload);
       window.Webflow && window.Webflow.require("ix2").init();
     }
   });
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 
 <script>
@@ -135,7 +135,7 @@ document.addEventListener('swup:pageView', pagereload);
       });
     }
     casesSlider();
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 <script>
 function changeOpacity() {
@@ -247,7 +247,7 @@ swup.hooks.on('visit:end', moveNavbarLogo);
       topper();
     });
   });
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 <script>
     function wfscriptreload() {
@@ -265,7 +265,7 @@ swup.hooks.on('visit:end', moveNavbarLogo);
   	document.addEventListener('swup:page:view', wfscriptreload);
     document.addEventListener("DOMContentLoaded", wfscriptreload);
   
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
 
 <script>
 // Define a function to handle animations after page transition
@@ -276,4 +276,4 @@ function handlePageTransition() {
 
 // Add event listener for Swup page transition event
 document.addEventListener('swup:page-view', handlePageTransition);
-</script>
+</script><script src="https://min30327.github.io/luxy.js/dist/js/luxy.js" charset="utf-8"></script><script>luxy.init({wrapper: '#luxy',wrapperSpeed:  0.08});</script>
