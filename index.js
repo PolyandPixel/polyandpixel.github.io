@@ -717,7 +717,7 @@
                 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.3s,easeOut"
                 >
-                  <a href="work" class="space-x:-1px group">
+                  <a href="https://twitter.com/incipientcorp?lang=en" class="space-x:-1px group">
                     <span class="underlined-link align-y:middle">X</span>
                     <svg
                       class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
@@ -739,7 +739,7 @@
 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.3s,easeOut"
                 >
-                  <a href="work" class="space-x:-1px group">
+                  <a href="https://m.youtube.com/@incipientcorp.7325" class="space-x:-1px group">
                     <span class="underlined-link align-y:middle">YouTube</span>
                     <svg
                       class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
@@ -761,7 +761,7 @@
 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.3s,easeOut"
                 >
-                  <a href="work" class="space-x:-1px group">
+                  <a href="https://clutch.co/profile/incipient-corp" class="space-x:-1px group">
                     <span class="underlined-link align-y:middle">Clutch</span>
                     <svg
                       class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
@@ -783,7 +783,7 @@
                 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.4s,easeOut"
                 >
-                  <a href="services" class="space-x:-1px group">
+                  <a href="https://www.instagram.com/incipientcorp/" class="space-x:-1px group">
                     <span class="underlined-link align-y:middle"
                       >Instagram</span
                     >
@@ -807,7 +807,7 @@
                 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.5s,easeOut"
                 >
-                  <a href="contact" class="space-x:-1px group">
+                  <a href="https://www.linkedin.com/company/incipientcorp" class="space-x:-1px group">
                     <span class="underlined-link align-y:middle">LinkedIn</span>
                     <svg
                       class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
