@@ -1034,7 +1034,7 @@
                         </div>
                     </div>
                     <scroll-object class="block rel mask" aria-hidden="true">
-                        <a href="/" class="block rel" aria-label="Back to Home">
+                        <a href="/" style="opacity:0 !important;" class="block rel" aria-label="Back to Home">
                             <svg aria-hidden="true" class="transform shift-y:-100% (.in-view):shift-y:0% (.in-view):tween:all,1.6s,easeOutSlow w:fit" viewBox="0 0 1362 218" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M 0,212.431 H 35.0769 V 98.6631 c 0,-39.7789 20.3287,-61.2596 52.6154,-61.2596 H 109.217 V 3.1936 H 88.4895 C 45.8391,3.1936 0,30.2433 0,95.8786 Z" fill="#fffcf1" id="path132" />
                             </svg>
