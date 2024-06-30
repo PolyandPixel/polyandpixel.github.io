@@ -714,11 +714,33 @@
               <ul
                 class="flex items:center just:end space-x:10px d:block@m fs:16fx m-b:10fx@m space-y:7fx@m"
               >
-                <li
+     <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.3s,easeOut"
                 >
-                  <a href="https://twitter.com/incipientcorp?lang=en" class="space-x:-1px group">
-                    <span class="underlined-link align-y:middle">X</span>
+                  <a href="https://clutch.co/profile/incipient-corp#highlights" class="space-x:-1px group">
+                    <span class="underlined-link align-y:middle">Clutch</span>
+                    <svg
+                      class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
+                      width="20"
+                      height="20"
+                      viewBox="0 0 20 20"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M6.82813 13.1411L13.1413 6.82841M13.1413 6.82841L7.48446 6.82841M13.1413 6.82841L13.1413 12.4853"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                  </a>
+                </li>
+                    <li
+                  class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.5s,easeOut"
+                >
+                  <a href="https://www.linkedin.com/company/incipientcorp" class="space-x:-1px group">
+                    <span class="underlined-link align-y:middle">LinkedIn</span>
                     <svg
                       class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
                       width="20"
@@ -758,28 +780,8 @@
                     </svg>
                   </a>
                 </li>
-<li
-                  class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.3s,easeOut"
-                >
-                  <a href="https://clutch.co/profile/incipient-corp" class="space-x:-1px group">
-                    <span class="underlined-link align-y:middle">Clutch</span>
-                    <svg
-                      class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
-                      width="20"
-                      height="20"
-                      viewBox="0 0 20 20"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M6.82813 13.1411L13.1413 6.82841M13.1413 6.82841L7.48446 6.82841M13.1413 6.82841L13.1413 12.4853"
-                        stroke="currentColor"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </a>
-                </li>
+
+     
                 <li
                   class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.4s,easeOut"
                 >
@@ -804,28 +806,7 @@
                     </svg>
                   </a>
                 </li>
-                <li
-                  class=" shift-x:100px (.is-menu-opened):shift-x:0 transform (.is-menu-opened):tween:transform,1.6s,0.5s,easeOut"
-                >
-                  <a href="https://www.linkedin.com/company/incipientcorp" class="space-x:-1px group">
-                    <span class="underlined-link align-y:middle">LinkedIn</span>
-                    <svg
-                      class="iblock tween:transform,0.6s,easeOutCubic transform group-hover:rotate:45deg align-y:middle"
-                      width="20"
-                      height="20"
-                      viewBox="0 0 20 20"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M6.82813 13.1411L13.1413 6.82841M13.1413 6.82841L7.48446 6.82841M13.1413 6.82841L13.1413 12.4853"
-                        stroke="currentColor"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </a>
-                </li>
+ 
               </ul>
             </div>
           </div>
@@ -999,12 +980,12 @@
                             <li><a class="underlined-link" href="contact">Contact</a></li>
                         </ul>
                         <ul>
-                            <li><a class="underlined-link" target="_blank" href="https://twitter.com/incipientcorp">X<span class=" transform rotate:-45deg iblock">→</span></a></li>
-                            <li><a class="underlined-link" target="_blank" href="https://www.instagram.com/incipientcorp/">Instagram<span class=" transform rotate:-45deg iblock">→</span></a></li>
+                            <li><a class="underlined-link" target="_blank" href="https://clutch.co/profile/incipient-corp#highlights">Clutch<span class=" transform rotate:-45deg iblock">→</span></a></li>
                             <li><a class="underlined-link" target="_blank" href="https://www.linkedin.com/company/incipientcorp">LinkedIn<span class=" transform rotate:-45deg iblock">→</span></a></li>
-                             <li><a class="underlined-link" target="_blank" href="https://twitter.com/incipientcorp">Facebook<span class=" transform rotate:-45deg iblock">→</span></a></li>
-                            <li><a class="underlined-link" target="_blank" href="https://www.instagram.com/incipientcorp/">Clutch<span class=" transform rotate:-45deg iblock">→</span></a></li>
-                            <li><a class="underlined-link" target="_blank" href="https://www.linkedin.com/company/incipientcorp">YouTube<span class=" transform rotate:-45deg iblock">→</span></a></li>
+<li><a class="underlined-link" target="_blank" href="https://www.linkedin.com/company/incipientcorp">YouTube<span class=" transform rotate:-45deg iblock">→</span></a></li>
+  <li><a class="underlined-link" target="_blank" href="https://twitter.com/incipientcorp">Facebook<span class=" transform rotate:-45deg iblock">→</span></a></li>
+<li><a class="underlined-link" target="_blank" href="https://www.instagram.com/incipientcorp/">Instagram<span class=" transform rotate:-45deg iblock">→</span></a></li>
+                        
                         </ul>
                     </div>
                 </div>
