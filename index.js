@@ -619,7 +619,7 @@
                           >Download Guide</span
                         >
                       </a>
-                      <p>—01:18</p>
+                      <p>—03:18</p>
                     </nav>
                   </div>
                 </div>
