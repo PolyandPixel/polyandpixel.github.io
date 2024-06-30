@@ -845,13 +845,7 @@
                 <div
                   class="fs:20fx fs:17fx@m iblock w:auto shift-x:100px (.is-loader-ended):shift-x:0 transform (.is-loader-ended):tween:transform,1.3s,1.8s,easeOut"
                 >
-                  ${"Incipient Corp.".split(" ")?.map((e,t)=>o`
-                        <span
-                          class="o:0 (.is-loader-ended):o:1 ${`(.is-loader-ended):tween:opacity,${.5+.15*t}s,${.15*t+1.8}s,easeOut`}"
-                        >
-                          ${e}&nbsp;
-                        </span>
-                      `)}
+                <img src="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/66812231fe6da200d5f62159_Incipient%20Logo%20white.svg">
                 </div>
               </div>
               <div
