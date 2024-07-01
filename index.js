@@ -2254,8 +2254,7 @@
                 <nav
                   class="flex just:between items:center fs:16fx m-b:7fx m-b:0@m "
                 >
-                  <button
-                    class="border:none bg:none space-x:9fx flex items:center just:start "
+                  <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf"                    class="border:none bg:none space-x:9fx flex items:center just:start "
                   >
                     <span style="rotate: 90deg;"
                     class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px transform shift-y:50fx o:0 (.is-loader-ended):shift-y:0vh (.is-loader-ended):o:1 (.is-loader-ended):tween:all,1.6s,2s,easeOut"
@@ -2277,7 +2276,7 @@
                       class="iblock align-y:middle transform shift-y:50fx o:0 (.is-loader-ended):shift-y:0vh (.is-loader-ended):o:1 (.is-loader-ended):tween:all,1.6s,2.1s,easeOut"
                       >Download Guide</span
                     >
-                  </button>
+                  </a>
                   <p
                     class="transform shift-y:50fx o:0 (.is-loader-ended):shift-y:0vh (.is-loader-ended):o:1 (.is-loader-ended):tween:all,1.6s,2.2s,easeOut"
                   >
