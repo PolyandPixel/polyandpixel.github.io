@@ -582,7 +582,7 @@
                         alt="Reel poster"
                         width="650"
                         height="425"
-                        class="transform w:325fx bg:#FFFCF1 radius:3fx scale:2 (.is-menu-opened):shift-y:0vh (.is-menu-opened):scale:1  tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,0.1s,easeOut"
+                        class="transform w:325fx h:212fx bg:#FFFCF1 radius:3fx scale:2 (.is-menu-opened):shift-y:0vh (.is-menu-opened):scale:1  tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,0.1s,easeOut"
                       />
                       <video
                         playsinline
