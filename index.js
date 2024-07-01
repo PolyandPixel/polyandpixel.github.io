@@ -662,7 +662,7 @@
               class="d:none@m p-y:20fx transform shift-y:50fx o:0 (.is-menu-opened):shift-y:0vh (.is-menu-opened):o:1  tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,0.5s,easeOut"
             >
               <a
-                href="⁃	https://clutch.co/profile/incipient-corp#highlights"
+                href="https://clutch.co/profile/incipient-corp#highlights"
                 class="rel mask group m-l:806fx fs:16fx lh:1.2 radius:45px p:14fx,25fx border:solid,1px,currentColor iblock "
               >
                 <span class="rel o:0">Contact Us</span>
@@ -965,7 +965,7 @@
                 <div top-part class="flex items:start just:between w:fit m-b:200fx d:block@m m-b:37fx@m">
                     <div class="space-y:25fx m-b:47fx@m">
                         <h3 class="fs:24fx fs:28fx@m">Don’t Worry. We Got You!</h3>
-                        <a href="⁃	https://clutch.co/profile/incipient-corp#highlights" class="iblock tween:all,0.4s,easeOutCubic bg:none border:solid,1px,#FFFCF1 hover:bg:#FFFCF1 hover:c:#0E0E0E fs:16fx p:16fx,22fx radius:45fx fs:14fx@m radius:45fx@m p:10fx,18fx@m ">Contact Us</a>
+                        <a href="https://clutch.co/profile/incipient-corp#highlights" class="iblock tween:all,0.4s,easeOutCubic bg:none border:solid,1px,#FFFCF1 hover:bg:#FFFCF1 hover:c:#0E0E0E fs:16fx p:16fx,22fx radius:45fx fs:14fx@m radius:45fx@m p:10fx,18fx@m ">Contact Us</a>
                     </div>
                     <div class="(&//ul//li):m-b:10fx@m  space-x:44fx fs:16fx lh:1.2 flex items:start just:end just:between@m">
                         <ul class="w:174fx">
