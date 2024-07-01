@@ -1131,14 +1131,14 @@
                     <div class="space-y:55fx align-x:right d:none ${e?.vimeo_reel_link?"d:block@m":"d:none@m"}">
                         <div class="bg:none border:none">
                             <nav class="flex just:between items:center fs:16fx m-b:7fx">
-                                <button class="border:none bg:none space-x:9fx flex items:center just:start ">
+                                <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf" class="border:none bg:none space-x:9fx flex items:center just:start ">
                                     <span class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="4" height="6" viewBox="0 0 4 6" fill="none">
                                         <path d="M2.27634 3.84001C2.11432 4.0554 1.79599 4.0529 1.63722 3.835L0.080138 1.69791C-0.115481 1.42943 0.0689781 1.04729 0.396296 1.0429L3.59312 1.00004C3.92812 0.995547 4.12038 1.38845 3.91607 1.66006L2.27634 3.84001Z" fill="#FFFCF1"/>
                                         </svg>
                                     </span>
                                     <span class="iblock align-y:middle">Download Guide</span>
-                                </button>
+                                </a>
                                 <p>
                                     —05:18
                                 </p>
