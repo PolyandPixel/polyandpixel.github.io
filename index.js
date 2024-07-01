@@ -570,9 +570,9 @@
             <div class="w:fit">
               <div class="flex items:start just:between w:fit">
                 <div class=" d:none@m">
-                  <div class="group bg:none border:none space-y:10fx">
+                  <div style="margin-top: 10px;" class="group bg:none border:none space-y:10fx">
                     <!-- <div class="transform shift-y:-50fx o:0 (.is-menu-opened):shift-y:0vh (.is-menu-opened):o:1  tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,0.2s,easeOut">
-                                            <h2 class="fs:16fx">The Venture Agency</h2>
+                                            <h2 class="fs:16fx">Incipient Corp</h2>
                                         </div> -->
                     <div
                       class="mask transform shift-y:-50fx scale:0 (.is-menu-opened):shift-y:0vh (.is-menu-opened):scale:1  radius:4fx tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,0.1s,easeOut"
