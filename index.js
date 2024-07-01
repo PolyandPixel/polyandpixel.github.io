@@ -847,7 +847,7 @@
                 <div
                   class="fs:20fx fs:17fx@m iblock w:auto shift-x:100px (.is-loader-ended):shift-x:0 transform (.is-loader-ended):tween:transform,1.3s,1.8s,easeOut"
                 >
-                <img src="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/66812231fe6da200d5f62159_Incipient%20Logo%20white.svg">
+                <img style="min-width:calc(120* var(--unit-fx)) !important;" src="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/66812231fe6da200d5f62159_Incipient%20Logo%20white.svg">
                 </div>
               </div>
               <div
