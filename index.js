@@ -597,7 +597,7 @@
                       @click="${e=>n.fire("reel:show")}"
                       class="flex just:between items:center fs:16fx m-b:7fx transform shift-y:-50fx o:0 (.is-menu-opened):shift-y:0vh (.is-menu-opened):o:1  tween:all,1.3s,easeOut (.is-menu-opened):tween:all,1.6s,easeOut"
                     >
-                      <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/667c10c5476d4b9d3e52ac3c_Incipient_Past%20Performance.pdf"
+                      <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf"
                         class="border:none bg:none space-x:9fx flex items:center just:start "
                       >
                         <span style="
