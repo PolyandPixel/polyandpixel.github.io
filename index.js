@@ -600,7 +600,9 @@
                       <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/667c10c5476d4b9d3e52ac3c_Incipient_Past%20Performance.pdf"
                         class="border:none bg:none space-x:9fx flex items:center just:start "
                       >
-                        <span
+                        <span style="
+    rotate: 90deg;
+" 
                           class="bg:#0E0E0E h:20fx w:20fx flex items:center just:center radius:100px"
                         >
                           <svg
@@ -1489,7 +1491,7 @@
             <section  @click="${e=>this.playReel()}" class="group rel c:#fff">
 
                 <!-- <button class="m-l:40fx m-b:10fx border:none bg:none space-x:9fx flex items:center just:start c:#0E0E0E">
-                    <span class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px">
+                    <span style="rotate: 90deg;" class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px">
                         <svg xmlns="http://www.w3.org/2000/svg" width="4" height="6" viewBox="0 0 4 6" fill="none">
                         <path d="M3.47669 2.67493C3.73935 2.87702 3.7363 3.27408 3.47058 3.47212L0.864538 5.4143C0.537145 5.6583 0.0711485 5.42822 0.0657971 5.01995L0.013533 1.03249C0.00805605 0.614631 0.487176 0.374829 0.818385 0.629658L3.47669 2.67493Z" fill="#FFFCF1"/>
                         </svg>
@@ -2255,8 +2257,8 @@
                   <button
                     class="border:none bg:none space-x:9fx flex items:center just:start "
                   >
-                    <span
-                      class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px transform shift-y:50fx o:0 (.is-loader-ended):shift-y:0vh (.is-loader-ended):o:1 (.is-loader-ended):tween:all,1.6s,2s,easeOut"
+                    <span style="rotate: 90deg;"
+                    class="bg:#FF5F38 h:20fx w:20fx flex items:center just:center radius:100px transform shift-y:50fx o:0 (.is-loader-ended):shift-y:0vh (.is-loader-ended):o:1 (.is-loader-ended):tween:all,1.6s,2s,easeOut"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
