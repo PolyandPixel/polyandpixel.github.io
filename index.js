@@ -973,7 +973,7 @@
                             <li><a class="underlined-link" href="work">Work</a></li>
                             <li><a class="underlined-link" href="about">About</a></li>
                             <li><a class="underlined-link" href="services">Services & Models</a></li>
-                            <li><a class="underlined-link" href="contact">Contact</a></li>
+                            <li><a class="underlined-link" href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf">Contact</a></li>
                         </ul>
                         <ul>
                             <li><a class="underlined-link" target="_blank" href="https://clutch.co/profile/incipient-corp#highlights">Clutch<span class=" transform rotate:-45deg iblock">→</span></a></li>
@@ -1982,7 +1982,7 @@
                         <h2 class="(&//*):fs:131fx (&//*):ff:alt (&//*):fs:60fx@m (&//*):lh:1 p-t:20fx letter:-1%">
                             ${e?.titleDrag&&y(e?.titleDrag,k)}
                         </h2>
-                        <a href="contact" class="fs:24fx fs:14fx@m nowrap"><span class="transform scale-x:-1 iblock m-r:0.5em">↵</span><span class="underlined-link">Contact</span></a>
+                        <a href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf" class="fs:24fx fs:14fx@m nowrap"><span class="transform scale-x:-1 iblock m-r:0.5em">↵</span><span class="underlined-link">Contact</span></a>
                     </div>
                 </div>
 
@@ -2135,7 +2135,7 @@
                           ${e?.headline}
                         </span>
                       </h2>
-                      <a class="fs:24fx lh:1.14 fs:14fx@m" href="contact">
+                      <a class="fs:24fx lh:1.14 fs:14fx@m" href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf">
                         <span class="transform scale-x:-1 iblock">↵</span>
                         <span class="underlined-link">Contact</span>
                       </a>
