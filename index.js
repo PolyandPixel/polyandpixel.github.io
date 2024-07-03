@@ -839,7 +839,7 @@
                 | (.is-dark-theme/&.is-fixed):bg:#0E0E0E@m"
       >
         <div class="flex items:center just:between">
-          <a href="" aria-label="back to home">
+          <a href="/" aria-label="back to home">
             <div class="iblock rel">
               <div
                 class="${t||!e?"o:0 (.is-loader-ended):tween:opacity,0.6s,easeOut":"o:1 (.is-loader-ended):tween:opacity,0.6s,0.3s,easeOut"} nowrap abs t:50% l:0 transform shift-y:-50% "
