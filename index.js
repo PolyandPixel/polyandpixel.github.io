@@ -979,7 +979,6 @@
                             <li><a class="underlined-link" target="_blank" href="https://clutch.co/profile/incipient-corp#highlights">Clutch<span class=" transform rotate:-45deg iblock">→</span></a></li>
                             <li><a class="underlined-link" target="_blank" href="https://www.linkedin.com/company/incipientcorp">LinkedIn<span class=" transform rotate:-45deg iblock">→</span></a></li>
 <li><a class="underlined-link" target="_blank" href="https://www.linkedin.com/company/incipientcorp">YouTube<span class=" transform rotate:-45deg iblock">→</span></a></li>
-  <li><a class="underlined-link" target="_blank" href="https://twitter.com/incipientcorp">Facebook<span class=" transform rotate:-45deg iblock">→</span></a></li>
 <li><a class="underlined-link" target="_blank" href="https://www.instagram.com/incipientcorp/">Instagram<span class=" transform rotate:-45deg iblock">→</span></a></li>
                         
                         </ul>
