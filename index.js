@@ -1005,7 +1005,6 @@
                         <div class="space-x:44fx fs:16fx flex items:end just:end space-x:0@m">
                             <ul class="w:174fx w:auto@m">
                                 <li>
-                                    <span class="d:none d:block@m">Project inquiries:</span>
                                     <a class="underlined-link" href="mailto:info@incipientcorp.com">info@incipientcorp.com</a>
                                 </li>
                             </ul>
