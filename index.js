@@ -970,7 +970,7 @@
                     <div class="(&//ul//li):m-b:10fx@m  space-x:44fx fs:16fx lh:1.2 flex items:start just:end just:between@m">
                         <ul class="w:174fx">
                             <li><a class="underlined-link" href="">Home</a></li>
-                            <li><a class="underlined-link" href="404.html">Work</a></li>
+                            <li><a class="underlined-link" href="/work">Work</a></li>
                             <li><a class="underlined-link" href="404.html">About</a></li>
                             <li><a class="underlined-link" href="404.html">Services & Models</a></li>
                             <li><a class="underlined-link" href="https://uploads-ssl.webflow.com/64c26954f94865c4ea440466/6682dd9326ded64a522c356b_Incipient_%20SMB%20Digital%20Opportunity.pdf">Contact</a></li>
